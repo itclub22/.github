@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Banner CodeMe" src="../src/banner.png">
+    <img alt="Banner CodeMe" src="https://raw.githubusercontent.com/CodeMe-Academy/.github/main/src/banner.png">
 </p>
 
 
